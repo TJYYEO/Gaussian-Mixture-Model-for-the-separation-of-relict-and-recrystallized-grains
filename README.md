@@ -1,5 +1,5 @@
 # Gaussian-Mixture-Model-for-the-separation-of-relict-and-recrystallized-grains
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7023930.svg)](https://doi.org/10.5281/zenodo.7023930)
+[![DOI](https://zenodo.org/badge/529074859.svg)](https://zenodo.org/badge/latestdoi/529074859)
 
 Matlab script for processing electron backscatter diffraction (EBSD) data. 
 
